@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.naisiyunjc.com/sitemap.xml
